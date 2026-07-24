@@ -1,46 +1,38 @@
-# Guillaume Le Bigot
+<div align="center">
 
-**Building AI systems that think, observe, and act — so operators don't have to.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,40,B87333&height=180&section=header&text=Guillaume%20Le%20Bigot&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Control%20Plane%20Engineer&descAlignY=60&descSize=17&descColor=cccccc" width="100%"/>
 
----
+<br/>
 
-I design and ship **operator-facing AI infrastructure** — the layer between raw LLMs and real decisions.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=B87333&center=true&vCenter=true&multiline=false&width=680&lines=Construire+des+syst%C3%A8mes+IA+qui+se+gouvernent+eux-m%C3%AAmes.;Building+AI+systems+that+govern+themselves.;Operator-facing+infrastructure+%E2%80%94+not+chatbots.;Local-first+%C2%B7+Observable+by+design+%C2%B7+Privacy+default." alt="Typing animation" />
 
-Currently building [dun](https://github.com/dun-platform) — a full-stack AI control plane:
+<br/><br/>
 
-| Product | What it does |
-|---|---|
-| **Cockpit** | Operator interface — orchestrate agents, observe work, arbitrate decisions |
-| **Signals** | Signal intelligence — automated watch, scoring, AI-generated reports |
-| **AgentOps** | Observability — execution memory, cost tracking, agent telemetry |
-| **Knowledge Engine** | Knowledge layer — RAG, long-term memory, corpus management |
-| **Voice Lab** | Voice synthesis — prosody engine, multi-voice, emotion-aware TTS |
-| **Polyperspective Runtime** | Predictive runtime — multi-perspective AI vision & segmentation |
-| **OS Guard** | System security — OS-level hardening and threat surface reduction |
-| **Netguard** | Network security — traffic inspection and perimeter enforcement |
-| **Courselab** | Learning platform — AI-assisted course authoring and delivery |
-| **Frontier Quota** | Cost intelligence — LLM budget tracking and austerity enforcement |
-| **Governance** | Rules kernel — workspace-wide AI governance and policy engine |
-| **E2E Suite** | End-to-end testing — cross-product validation and smoke coverage |
-| **Toolkit** | Shared tooling — reusable modules across the control plane |
-| **Compass** | Planning substrate — slices, workorders, PM orchestration |
+**Ce profil est une porte. Le travail est ailleurs.**<br/>
+**This profile is a door. The work is elsewhere.**
+
+<br/>
+
+<a href="https://guillaumelebigot.github.io">
+  <img src="https://img.shields.io/badge/→%20guillaumelebigot.github.io-Portfolio%20%26%20CV-B87333?style=for-the-badge&logoColor=white" height="42"/>
+</a>
+
+<br/><br/>
+
+<sub>Ouverture prochaine · Launching soon</sub>
+
+<br/><br/>
 
 ---
 
-### Stack highlights
+<a href="https://github.com/dun-platform">
+  <img src="https://img.shields.io/badge/dun--platform-AI%20Control%20Plane%20workspace-0d1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Available-Senior%20AI%20Engineering%20%7C%20Architecture-4a9eff?style=flat-square"/>
 
-`Python` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `SQLite` · `Ollama`
-`Claude` · `Docker` · `Playwright` · `pytest` · `pnpm` · `systemd` · `mise` · and more.
+<br/><br/>
 
-Local-first. Privacy by default. Observable by design.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,B87333,40,0d1117&height=80&section=footer" width="100%"/>
 
----
-
-### Elsewhere
-
-- 📦 [`dun-platform`](https://github.com/dun-platform) — the workspace org
-- 🌐 [guillaume-portfolio](https://github.com/guillaumelebigot/guillaume-portfolio) — full CV & showcase
-
----
-
-*Available for senior AI engineering roles and architecture consulting.*
+</div>
