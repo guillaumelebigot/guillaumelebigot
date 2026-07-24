@@ -8,6 +8,10 @@
 
 <br/><br/>
 
+<img src="./bard-hero.gif" width="100%" alt="Portfolio preview — bard · guillaumelebigot.github.io"/>
+
+<br/><br/>
+
 **Ce profil est une porte. Le travail est ailleurs.**<br/>
 **This profile is a door. The work is elsewhere.**
 
